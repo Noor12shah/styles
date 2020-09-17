@@ -10,9 +10,9 @@
 * ```apt update```
 * ```apt install git -y```
 * ```git clone https://github.com/Noor12shah/styles```
-* ```cd tstyle```
+* ```cd tstyles```
 * ```bash setup.sh```
-## [~] type ***tstyle*** to run this tool.
+## [~] type ***tstyles*** to run this tool.
 ### Or ; Use Single Command
 ```
 apt update && apt install git -y && git clone https://github.com/htr-tech/tstyle && cd tstyle && bash setup.sh && tstyle
