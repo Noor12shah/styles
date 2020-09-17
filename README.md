@@ -9,7 +9,7 @@
 
 * ```apt update```
 * ```apt install git -y```
-* ```git clone https://github.com/htr-tech/tstyle```
+* ```git clone https://github.com/Noor12shah/styles```
 * ```cd tstyle```
 * ```bash setup.sh```
 ## [~] type ***tstyle*** to run this tool.
